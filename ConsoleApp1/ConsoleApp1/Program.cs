@@ -164,6 +164,9 @@
                     }
                     Console.WriteLine(chislo1);
 
+                }else
+                if(deystvie == 9){
+                break;
                 }
             }
         }

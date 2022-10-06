@@ -65,6 +65,7 @@ namespace ConsoleApp2
                 {
                     Console.Write("{0, 4}", a[i, j]);
                 }
+                Console.WriteLine();
             }
             Main();
         }
